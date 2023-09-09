@@ -17,3 +17,5 @@ print(array2)
 print("2nd element on 1st row is ", array[1, 1, 1])
 
 print("Last element from 3rd dimension is ", array[2, 1, -2])
+
+print("Array slice is ", array[2, 1, 1:5]);

@@ -13,3 +13,5 @@ print('dimension = ', array.ndim)
 
 array2 = numpy.array([1, 2, 33, 4, 5], ndmin = 5)
 print(array2)
+
+print("2nd element on 1st row is ", array[1, 1, 1])
